@@ -7,4 +7,8 @@
 <a name="section-1"></a>
 ## First Section
 
-Write something cool.. 🦊
+> {danger.fa-close} Esse projeto ainda está em fase de desenvolvimento
+
+![Socrates](../../images/socrates/pensando.png)
+
+🦊
